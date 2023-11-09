@@ -22,17 +22,11 @@ padding: 50px;
 }
 /* This is hero section end */
 .firstcard{
-
-  property: box-shadow,
-  class: shadow,
-  values:
-    null: $box-shadow,
-    sm: $box-shadow-sm,
-    lg: $box-shadow-lg,
-    none: none,
- 
-
-
+background-color: aliceblue;
+border: none;
+}
+.twocard{
+  display: inline-flex;
 }
 
 
