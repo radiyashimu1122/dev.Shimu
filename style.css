@@ -1,8 +1,19 @@
 
 
-
-
 .photo1{
  background-color: black;
  width: 500px;
+padding: 50px;
 }
+.shimu{
+ display: inline-flex;
+}
+.button{
+ margin-left: 150px;
+ margin-top: 20px;
+
+}
+
+
+
+
