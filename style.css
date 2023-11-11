@@ -37,6 +37,29 @@ border: none;
  color: #0d6efd;
  height: 45px;
  }
+ /* footer{
+  width: 100%; 
+ } */
+ul{
+ list-style: none;
+}
+ul:hover{
+color: #0d6efd;
+}
 
+ .list{
+  width: 100%;
+ }
+.contact{
+ border: 3px solid white;
+ background-color: #0d6efd;
+ color: white;
+ border-radius: 10px;
+
+}
+.contact:hover{
+background-color: white;
+color: #0d6efd;
+}
 
 
